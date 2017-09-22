@@ -1,0 +1,21 @@
+header {
+background-color: lightgrey;
+}
+
+ul {
+  background-color: grey;
+
+}
+
+.nav-link {
+  color: white;
+}
+
+
+.card {
+  float:left;
+  width: 14rem;
+  margin-right: 2,34%;
+  margin-left: 2,34%;
+
+}
